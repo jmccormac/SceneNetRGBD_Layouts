@@ -1,0 +1,2 @@
+See https://freestocktextures.com/license/ for all textures except the paintings.
+For paintings textures see: https://github.com/metmuseum/openaccess/blob/master/LICENSE
